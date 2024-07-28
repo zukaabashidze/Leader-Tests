@@ -1,0 +1,42 @@
+
+.jvizviara{
+display:inline-block;
+background-color: hsl(266, 57%, 51%);
+color: rgb(255, 252, 252);
+display: inline-table;
+line-height: 25px;
+
+}
+
+.alo{
+   background-color:  hsl(219, 29%, 14%); 
+   text-align: right;
+   display:inline-table;
+   line-height: 55px;
+   margin: -5px;
+
+}
+.Jeanette{
+    background-color: hsl(217, 21%, 34%);
+    color: rgb(255, 252, 252);
+    text-align: left;
+    display:inline-table;
+    margin: -5px;
+    line-height: 40px;
+    }
+
+.Kira{
+    background-color: hsl(286, 76%, 15%);
+    color: rgb(255, 252, 252);
+    display:inline-table;
+    margin:-5px;
+    height: 100px;
+    margin: -5px;
+    
+}
+.GOA{
+    background-color: hsl(226, 15%, 23%);
+    color: rgb(255, 252, 252);
+    font-size: large;
+    display:inline-table;
+}
