@@ -1,0 +1,19 @@
+body{
+    background-image: url("a-red-sunset-over-mountains-hd-wallpaper-4k-background-4njdsgfc.jpeg");
+}
+
+table {
+    width: 50%;
+    border-collapse: collapse;
+    margin: 25px 0;
+    font-size: 18px;
+    text-align: left;
+}
+th, td {
+    padding: 12px;
+    border-bottom: 1px solid #020101e3;
+    color: black;
+}
+th {
+    background-color: #7c7a7a;
+}
