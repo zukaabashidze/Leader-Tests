@@ -33,5 +33,5 @@ function displayWeather(data) {
     const iconCode = data.weather[0].icon;
     weatherIcon.src = `https://openweathermap.org/img/wn/${iconCode}@2x.png`;
 
-    document.getElementById("weather-info").style.display = "block"; // Ensure it's visible
+    document.getElementById("weather-info").style.display = "block";
 }
